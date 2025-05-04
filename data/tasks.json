@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Complete Web Project",
+        "description": "Finish and submit the web programming project",
+        "priority": "high",
+        "dueDate": "2025-05-05",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Buy Groceries",
+        "description": "Milk, eggs, bread, fruits",
+        "priority": "medium",
+        "dueDate": "2025-05-05",
+        "completed": true
+    }
+]
