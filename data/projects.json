@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Portfolio Website",
+        "description": "A responsive portfolio built with HTML/CSS/JS."
+    },
+    {
+        "title": "Task Manager",
+        "description": "React-based app for managing daily tasks."
+    }
+]
